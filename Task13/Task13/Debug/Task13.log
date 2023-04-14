@@ -1,0 +1,3 @@
+﻿  Task13.cpp
+D:\study\1404 C++\HW\Task13\Task13\Task13.cpp(29,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Task13.vcxproj -> D:\study\1404 C++\HW\Task13\Debug\Task13.exe
